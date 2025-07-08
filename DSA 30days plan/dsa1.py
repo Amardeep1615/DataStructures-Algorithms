@@ -209,7 +209,7 @@ Variations:
 from collections import deque
 q = deque()
 q.append(1)  # enqueue
-q.popleft()  # dequeue
+q.popleft()  # dequeue   
 
 # ========================================================================
 # 15. Deque (Day 15)
